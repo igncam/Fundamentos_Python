@@ -9,7 +9,7 @@ Repositorio con ejercicios y ejemplos de conceptos fundamentales de Python.
 
 ## 📂 Contenido
 
-- [01-hola-mundo](01-hola-mundo.py) 🌍 – Tu primer script en Python, imprimir en consola.  
+- [01-hola-mundo](01-hola-mundo/hello_word.py) 🌍 – Tu primer script en Python, imprimir en consola.  
 - [01-variables](01-variables.py) 📝 – Declaración y tipos de variables.  
 - [02-data_types](02-data_types.py) 🔢 – Tipos de datos básicos y conversiones.  
 - [03-conditionals](03-conditionals.py) ❓ – Estructuras condicionales `if/else`.  
