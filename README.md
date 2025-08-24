@@ -24,7 +24,7 @@ Repositorio con ejercicios y ejemplos de conceptos fundamentales de Python.
 - [12-hof](12-hof.py) 🎯 – Higher Order Functions y funciones como objetos.  
 - [13-decorators](13-decorators.py) 🧵 – Decoradores para modificar comportamiento de funciones.  
 - [14-class_objects](14-class_objects.py) 🏛️ – Clases, objetos y programación orientada a objetos.
-
+- [15-attributes_methos](15-attributes_methos.py) 🏭 – Atributos y metodos.
 ---
 
 > Repositorio ideal para repasar y practicar los fundamentos de Python de manera rápida y visual.
